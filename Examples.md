@@ -1,1 +1,0 @@
-Predicates can be in two places, in the *model file* or in the `assets/minecraft/overrides` folder, but in most cases it's recomendet to us
